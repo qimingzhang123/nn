@@ -1,5 +1,5 @@
 # YOLO dataset config
-path: D:/github/nn/src/traffic_sign_control/final_dataset
+path: ./final_dataset
 train: images
 val: images
 nc: 2
